@@ -3,6 +3,13 @@
 **ESPStockViewer** displays real-time stock prices of your selected companies directly on a 1.77" TFT display.  
 The project is built using an ESP32 board, an ST7735 LCD screen, and a 4x4 keypad for user input.
 
+
+
+## Examples :
+<img src="Pictures/StartPage.jpg" alt="Start Page" width="300"/>
+<img src="Pictures/SelectOptions.jpg" alt="Start Page" width="300"/>
+<img src="Pictures/StockPrice.jpg" alt="Start Page" width="300"/>
+
 ## Materials
 
 - [ESP32 NodeMCU](https://www.amazon.de/dp/B0CR9R6334?ref_=ppx_hzsearch_conn_dt_b_fed_asin_title_2&th=1)
@@ -41,6 +48,7 @@ The keypad uses 8 pins in total. The exact pin mapping may vary depending on the
 | 27        | C2         |
 | 14        | C3         |
 | 12        | C4         |
+
 
 ## Code
 
